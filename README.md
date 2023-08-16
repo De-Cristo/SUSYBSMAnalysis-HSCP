@@ -61,6 +61,7 @@ Before running locally:
 ```bash
 #file exists? Note that site of type "TAPE" has no user access
 dasgoclient -query="site file=/store/data/Run2017B/MET/AOD/09Aug2019_UL2017_rsb-v1/00000/AA1FC1E6-1E88-204D-B867-4637AEAC4BEA.root"
+dasgoclient -query="site file=/store/data/Run2017B/MET/AOD/09Aug2019_UL2017_rsb-v1/00000/0B6DD892-8DF8-0341-B5F5-32D084CC25DE.root"
 ```
 
 How to run
